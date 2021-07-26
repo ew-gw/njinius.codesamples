@@ -19,7 +19,7 @@ jobs:
       steps:
         - name: Run my test script
         - run: |
-            python .tutorial-code-samples/src/my-test-script.py
+            python ./tutorial-code-samples/src/my-test-script.py
                 
                
               
