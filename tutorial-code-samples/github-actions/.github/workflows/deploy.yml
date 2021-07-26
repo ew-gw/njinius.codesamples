@@ -12,8 +12,6 @@ on:
     workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-    # Pull request to NJinius. This will simply check if the site still builds
   jobs:
     example-job:
       name: Example Job
